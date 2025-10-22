@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Ginika-Paul
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning mobile development
-- 💞️ I’m looking to collaborate on android development and with other android developers out there
-- 📫 How to reach me paulginka01@gmail.com
+ Hi, I'm Ginika Paul!
+Coding & Robotics Instructor and passionate about helping students learn technology through hands-on projects.  
+Currently building robotics and automation projects using Arduino, PictoBlox, and Python.  
 
-<!---
-Ginika-Paul/Ginika-Paul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I'm Working On
+- Developing educational robotics projects for beginners.  
+- Strengthening my programming skills in C++, Python, and JavaScript.  
+- Exploring AI, IoT, and Cybersecurity applications in education.  
+
+Projects on My GitHub
+(https://github.com/Ginika-Paul/robot_speed_control.git) — controls motor speed using PictoBlox and Arduino.  
+- More coming soon in automation, robotics, and AI learning tools.  
+
+Skills & Tools
+Arduino, PictoBlox, Python, C++, HTML/CSS, Git, Robotics Education
+
+Connect with Me
+ Email: paulginika01@gmail.com  
+ LinkedIn: (https://www.linkedin.com/in/nigidev)
+
+
+ “Technology is most powerful when it empowers learners to create.”
